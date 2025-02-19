@@ -1,0 +1,13 @@
+num1 = int(input("Digite o primeiro número: "))
+num2 = int(input("Digite o segundo número: "))
+soma = num1 + num2
+
+print(str(num1) + " + " + str(num2) + " = 5" + str(soma))
+
+OU
+
+num1 = int(input("Digite o primeiro número: "))
+num2 = int(input("Digite o segundo número: "))
+soma = num1 + num2
+
+print(num1, " + ", num2, " = ", soma)
